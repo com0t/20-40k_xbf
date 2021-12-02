@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Progress-bar">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Progress-bar" clip-path="url(#clip-Progress-bar)">
+    <rect width="32" height="32" fill="none"/>
+    <g id="Group_69" data-name="Group 69">
+      <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(2 11)" fill="none" stroke="#929292" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="28" height="5" rx="2.5" stroke="none"/>
+        <rect x="0.35" y="0.35" width="27.3" height="4.3" rx="2.15" fill="none"/>
+      </g>
+      <line id="Line_32" data-name="Line 32" x2="18" transform="translate(4.5 13.5)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(2 18)" fill="none" stroke="#929292" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="28" height="5" rx="2.5" stroke="none"/>
+        <rect x="0.35" y="0.35" width="27.3" height="4.3" rx="2.15" fill="none"/>
+      </g>
+      <line id="Line_33" data-name="Line 33" x2="21" transform="translate(4.5 20.5)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Rectangle_31" data-name="Rectangle 31" transform="translate(2 25)" fill="none" stroke="#929292" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="28" height="5" rx="2.5" stroke="none"/>
+        <rect x="0.35" y="0.35" width="27.3" height="4.3" rx="2.15" fill="none"/>
+      </g>
+      <line id="Line_34" data-name="Line 34" x2="12" transform="translate(4.5 27.5)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <text id="_" data-name="%" transform="translate(14 8)" fill="#929292" font-size="6" font-family="Helvetica"><tspan x="0" y="0">%</tspan></text>
+    </g>
+  </g>
+</svg>

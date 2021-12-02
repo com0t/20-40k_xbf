@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Funfact">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Funfact" clip-path="url(#clip-Funfact)">
+    <rect width="32" height="32" fill="none"/>
+    <g id="Group_66" data-name="Group 66">
+      <text id="_123" data-name="123" transform="translate(11 21)" fill="#929292" font-size="6" font-family="Helvetica"><tspan x="0" y="0">123</tspan></text>
+      <line id="Line_30" data-name="Line 30" x2="16.753" transform="translate(7.5 24.219)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_31" data-name="Line 31" x2="10.398" transform="translate(10.5 26.685)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <path id="Path_39" data-name="Path 39" d="M131.967,10.452l1.226,2.484,2.741.4-1.984,1.934L134.42,18l-2.452-1.289L129.515,18l.468-2.73L128,13.334l2.741-.4Z" transform="translate(-116.033 -6.077)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <text id="_" data-name="%" transform="translate(21 17)" fill="#929292" font-size="3" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">%</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Post-block">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Post-block" clip-path="url(#clip-Post-block)">
+    <rect width="32" height="32" fill="none"/>
+    <g id="Group_75" data-name="Group 75">
+      <g id="Rectangle_44" data-name="Rectangle 44" transform="translate(1 5)" fill="none" stroke="#929292" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="14" height="23" stroke="none"/>
+        <rect x="0.35" y="0.35" width="13.3" height="22.3" fill="none"/>
+      </g>
+      <line id="Line_38" data-name="Line 38" x2="9.662" transform="translate(3.415 15.145)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_41" data-name="Line 41" x2="5.797" transform="translate(3.415 17.077)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_42" data-name="Line 42" x2="3.865" transform="translate(8.246 11.28)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_43" data-name="Line 43" x2="3.865" transform="translate(8.246 13.212)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_44" data-name="Line 44" x2="2.899" transform="translate(3.415 8.092)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Ellipse_20" data-name="Ellipse 20" transform="translate(8 7)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.65" fill="none"/>
+      </g>
+      <g id="Ellipse_21" data-name="Ellipse 21" transform="translate(11 7)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.65" fill="none"/>
+      </g>
+      <g id="Rectangle_45" data-name="Rectangle 45" transform="translate(3 10)" fill="none" stroke="#929292" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="4" height="4" stroke="none"/>
+        <rect x="0.35" y="0.35" width="3.3" height="3.3" fill="none"/>
+      </g>
+      <g id="Rectangle_46" data-name="Rectangle 46" transform="translate(17 5)" fill="none" stroke="#929292" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="14" height="23" stroke="none"/>
+        <rect x="0.35" y="0.35" width="13.3" height="22.3" fill="none"/>
+      </g>
+      <line id="Line_45" data-name="Line 45" x2="9.662" transform="translate(19.415 15.145)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_46" data-name="Line 46" x2="5.797" transform="translate(19.415 17.077)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_47" data-name="Line 47" x2="3.865" transform="translate(24.246 11.28)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_48" data-name="Line 48" x2="3.865" transform="translate(24.246 13.212)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_49" data-name="Line 49" x2="2.899" transform="translate(19.415 8.092)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Ellipse_22" data-name="Ellipse 22" transform="translate(24 7)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.65" fill="none"/>
+      </g>
+      <g id="Ellipse_23" data-name="Ellipse 23" transform="translate(27 7)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.65" fill="none"/>
+      </g>
+      <g id="Rectangle_47" data-name="Rectangle 47" transform="translate(19 10)" fill="none" stroke="#929292" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="4" height="4" stroke="none"/>
+        <rect x="0.35" y="0.35" width="3.3" height="3.3" fill="none"/>
+      </g>
+      <line id="Line_50" data-name="Line 50" x2="9.662" transform="translate(19.415 19.145)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_51" data-name="Line 51" x2="9.662" transform="translate(19.415 21.145)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_52" data-name="Line 52" x2="9.662" transform="translate(3.415 19.145)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <line id="Line_53" data-name="Line 53" x2="9.662" transform="translate(3.415 21.145)" fill="none" stroke="#929292" stroke-linecap="round" stroke-width="0.7"/>
+      <g id="Rectangle_28" data-name="Rectangle 28" transform="translate(3 23)" fill="none" stroke="#929292" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="6" height="2" stroke="none"/>
+        <rect x="0.35" y="0.35" width="5.3" height="1.3" fill="none"/>
+      </g>
+      <g id="Rectangle_48" data-name="Rectangle 48" transform="translate(19 23)" fill="none" stroke="#929292" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="6" height="2" stroke="none"/>
+        <rect x="0.35" y="0.35" width="5.3" height="1.3" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

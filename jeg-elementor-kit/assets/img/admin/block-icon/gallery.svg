@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Gallery">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Gallery" clip-path="url(#clip-Gallery)">
+    <rect width="32" height="32" fill="none"/>
+    <g id="Group_73" data-name="Group 73">
+      <g id="Rectangle_33" data-name="Rectangle 33" transform="translate(1 5)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="14" height="11" stroke="none"/>
+        <rect x="0.35" y="0.35" width="13.3" height="10.3" fill="none"/>
+      </g>
+      <path id="Union_2" data-name="Union 2" d="M2.381,5.938H0L2.828,1.7,3.9,3.586,6.221,0l.565,2.263L7.917,1.7,9.049,5.938Z" transform="translate(3.513 7.828)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <g id="Ellipse_16" data-name="Ellipse 16" transform="translate(3 7)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.65" fill="none"/>
+      </g>
+      <g id="Rectangle_35" data-name="Rectangle 35" transform="translate(17 5)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="14" height="11" stroke="none"/>
+        <rect x="0.35" y="0.35" width="13.3" height="10.3" fill="none"/>
+      </g>
+      <path id="Union_3" data-name="Union 3" d="M2.381,5.938H0L2.828,1.7,3.9,3.586,6.221,0l.565,2.263L7.917,1.7,9.049,5.938Z" transform="translate(19.513 7.828)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <g id="Ellipse_17" data-name="Ellipse 17" transform="translate(19 7)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.65" fill="none"/>
+      </g>
+      <g id="Rectangle_36" data-name="Rectangle 36" transform="translate(17 5)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="14" height="11" stroke="none"/>
+        <rect x="0.35" y="0.35" width="13.3" height="10.3" fill="none"/>
+      </g>
+      <g id="Rectangle_37" data-name="Rectangle 37" transform="translate(1 18)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="14" height="11" stroke="none"/>
+        <rect x="0.35" y="0.35" width="13.3" height="10.3" fill="none"/>
+      </g>
+      <path id="Union_4" data-name="Union 4" d="M2.381,5.938H0L2.828,1.7,3.9,3.586,6.221,0l.565,2.263L7.917,1.7,9.049,5.938Z" transform="translate(3.513 20.828)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <g id="Ellipse_18" data-name="Ellipse 18" transform="translate(3 20)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.65" fill="none"/>
+      </g>
+      <g id="Rectangle_38" data-name="Rectangle 38" transform="translate(17 18)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="14" height="11" stroke="none"/>
+        <rect x="0.35" y="0.35" width="13.3" height="10.3" fill="none"/>
+      </g>
+      <path id="Union_5" data-name="Union 5" d="M2.381,5.938H0L2.828,1.7,3.9,3.586,6.221,0l.565,2.263L7.917,1.7,9.049,5.938Z" transform="translate(19.513 20.828)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7"/>
+      <g id="Ellipse_19" data-name="Ellipse 19" transform="translate(19 20)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <circle cx="1" cy="1" r="1" stroke="none"/>
+        <circle cx="1" cy="1" r="0.65" fill="none"/>
+      </g>
+      <g id="Rectangle_39" data-name="Rectangle 39" transform="translate(17 18)" fill="none" stroke="#929292" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.7">
+        <rect width="14" height="11" stroke="none"/>
+        <rect x="0.35" y="0.35" width="13.3" height="10.3" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
